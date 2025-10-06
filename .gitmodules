@@ -1,0 +1,3 @@
+[submodule "projects/nazator"]
+	path = projects/nazator
+	url = git@github.com:kazviz/project-nazator.git
