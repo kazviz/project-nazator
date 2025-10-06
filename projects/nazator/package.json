@@ -1,0 +1,24 @@
+{
+  "name": "@kazviz/content-project-nazator",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Nazator project description, details, dan blog",
+  "license": "CC BY-SA 4.0",
+  "homepage": "https://github.com/kazviz/project-nazator",
+  "author": {
+    "name": "KazViz",
+    "email": "kaz@kazviz.com",
+    "url": "https://kazviz.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kazviz/project-nazator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazviz/project-nazator.git",
+    "directory": "projects/nazator"
+  },
+  "engines": {
+    "bun": ">=1.2.0"
+  }
+}
